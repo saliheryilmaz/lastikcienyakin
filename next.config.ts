@@ -5,5 +5,10 @@ const config: NextConfig = {
   trailingSlash: false,
   images: { unoptimized: process.env.SITES_STATIC_EXPORT === 'true' },
   poweredByHeader: false,
+  ...(process.env.SITES_STATIC_EXPORT === 'true' ? {} : {
+    async redirects() {
+      return [{source:'/:path*',has:[{type:'host' as const,value:'lastikcienyakin.com'}],destination:'https://www.lastikcienyakin.com/:path*',permanent:true}];
+    },
+  }),
 };
 export default config;

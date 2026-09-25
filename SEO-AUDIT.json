@@ -1,23 +1,39 @@
 {
-  "checkedAt": "2026-09-25T06:27:31.941Z",
+  "checkedAt": "2026-09-25T11:04:06.423Z",
   "root": ".next/server/app",
-  "mode": "noindex-preview",
+  "mode": "production",
   "pages": 89,
   "errors": [],
   "warnings": [],
   "orphanPages": [],
-  "sitemapUrls": [],
+  "sitemapUrls": [
+    "https://www.lastikcienyakin.com",
+    "https://www.lastikcienyakin.com/istanbul",
+    "https://www.lastikcienyakin.com/sakarya",
+    "https://www.lastikcienyakin.com/sakarya/sapanca",
+    "https://www.lastikcienyakin.com/kocaeli",
+    "https://www.lastikcienyakin.com/duzce",
+    "https://www.lastikcienyakin.com/mobil-lastikci",
+    "https://www.lastikcienyakin.com/patlak-lastik-yardimi",
+    "https://www.lastikcienyakin.com/yerinde-lastik-degisimi",
+    "https://www.lastikcienyakin.com/lastik-tamiri",
+    "https://www.lastikcienyakin.com/hakkimizda",
+    "https://www.lastikcienyakin.com/iletisim",
+    "https://www.lastikcienyakin.com/hizmet-bolgeleri",
+    "https://www.lastikcienyakin.com/gizlilik-politikasi",
+    "https://www.lastikcienyakin.com/cerez-politikasi"
+  ],
   "checks": [
     {
       "route": "/cerez-politikasi",
       "title": "Çerez politikası | En Yakın Lastikçi",
       "descriptionLength": 150,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/cerez-politikasi",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/cerez-politikasi",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -26,11 +42,11 @@
       "title": "Akçakoca Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/akcakoca",
+      "canonical": "https://www.lastikcienyakin.com/duzce/akcakoca",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -39,11 +55,11 @@
       "title": "Çilimli Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/cilimli",
+      "canonical": "https://www.lastikcienyakin.com/duzce/cilimli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -52,11 +68,11 @@
       "title": "Cumayeri Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/cumayeri",
+      "canonical": "https://www.lastikcienyakin.com/duzce/cumayeri",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -65,11 +81,11 @@
       "title": "Gölyaka Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/golyaka",
+      "canonical": "https://www.lastikcienyakin.com/duzce/golyaka",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -78,11 +94,11 @@
       "title": "Gümüşova Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/gumusova",
+      "canonical": "https://www.lastikcienyakin.com/duzce/gumusova",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -91,11 +107,11 @@
       "title": "Kaynaşlı Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/kaynasli",
+      "canonical": "https://www.lastikcienyakin.com/duzce/kaynasli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -104,11 +120,11 @@
       "title": "Düzce Merkez Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 141,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/merkez",
+      "canonical": "https://www.lastikcienyakin.com/duzce/merkez",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -117,11 +133,11 @@
       "title": "Yığılca Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce/yigilca",
+      "canonical": "https://www.lastikcienyakin.com/duzce/yigilca",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -130,11 +146,11 @@
       "title": "Düzce Mobil Lastikçi | Yerinde Lastik Servisi",
       "descriptionLength": 158,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/duzce",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/duzce",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -143,11 +159,11 @@
       "title": "Gizlilik politikası | En Yakın Lastikçi",
       "descriptionLength": 148,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/gizlilik-politikasi",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/gizlilik-politikasi",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -156,11 +172,11 @@
       "title": "Hakkımızda | En Yakın Lastikçi",
       "descriptionLength": 156,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/hakkimizda",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/hakkimizda",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -169,11 +185,11 @@
       "title": "Hizmet bölgelerimiz | En Yakın Lastikçi",
       "descriptionLength": 163,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/hizmet-bolgeleri",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/hizmet-bolgeleri",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -182,23 +198,23 @@
       "title": "Bize ulaşın | En Yakın Lastikçi",
       "descriptionLength": 157,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/iletisim",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/iletisim",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
     {
       "route": "/",
-      "title": "En Yakın Lastikçi | Yerinde Mobil Lastik Servisi",
-      "descriptionLength": 168,
+      "title": "En Yakın Lastikçi | 7/24 Mobil Lastikçi ve Yol Yardım",
+      "descriptionLength": 162,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com",
+      "robots": "index, follow",
       "schemaTypes": [
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -207,11 +223,11 @@
       "title": "Adalar Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/adalar",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/adalar",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -220,11 +236,11 @@
       "title": "Arnavutköy Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/arnavutkoy",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/arnavutkoy",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -233,11 +249,11 @@
       "title": "Ataşehir Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/atasehir",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/atasehir",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -246,11 +262,11 @@
       "title": "Avcılar Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/avcilar",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/avcilar",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -259,11 +275,11 @@
       "title": "Bağcılar Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/bagcilar",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/bagcilar",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -272,11 +288,11 @@
       "title": "Bahçelievler Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 141,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/bahcelievler",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/bahcelievler",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -285,11 +301,11 @@
       "title": "Bakırköy Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/bakirkoy",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/bakirkoy",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -298,11 +314,11 @@
       "title": "Başakşehir Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/basaksehir",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/basaksehir",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -311,11 +327,11 @@
       "title": "Bayrampaşa Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/bayrampasa",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/bayrampasa",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -324,11 +340,11 @@
       "title": "Beşiktaş Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/besiktas",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/besiktas",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -337,11 +353,11 @@
       "title": "Beykoz Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/beykoz",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/beykoz",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -350,11 +366,11 @@
       "title": "Beylikdüzü Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/beylikduzu",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/beylikduzu",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -363,11 +379,11 @@
       "title": "Beyoğlu Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/beyoglu",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/beyoglu",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -376,11 +392,11 @@
       "title": "Büyükçekmece Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 141,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/buyukcekmece",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/buyukcekmece",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -389,11 +405,11 @@
       "title": "Çatalca Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/catalca",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/catalca",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -402,11 +418,11 @@
       "title": "Çekmeköy Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/cekmekoy",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/cekmekoy",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -415,11 +431,11 @@
       "title": "Esenler Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/esenler",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/esenler",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -428,11 +444,11 @@
       "title": "Esenyurt Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/esenyurt",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/esenyurt",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -441,11 +457,11 @@
       "title": "Eyüpsultan Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/eyupsultan",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/eyupsultan",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -454,11 +470,11 @@
       "title": "Fatih Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/fatih",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/fatih",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -467,11 +483,11 @@
       "title": "Gaziosmanpaşa Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 142,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/gaziosmanpasa",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/gaziosmanpasa",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -480,11 +496,11 @@
       "title": "Güngören Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/gungoren",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/gungoren",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -493,11 +509,11 @@
       "title": "Kadıköy Mobil Lastikçi | Yerinde Lastik Servisi",
       "descriptionLength": 158,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/kadikoy",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/kadikoy",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -506,11 +522,11 @@
       "title": "Kağıthane Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 138,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/kagithane",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/kagithane",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -519,11 +535,11 @@
       "title": "Kartal Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/kartal",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/kartal",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -532,11 +548,11 @@
       "title": "Küçükçekmece Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 141,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/kucukcekmece",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/kucukcekmece",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -545,11 +561,11 @@
       "title": "Maltepe Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/maltepe",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/maltepe",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -558,11 +574,11 @@
       "title": "Pendik Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/pendik",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/pendik",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -571,11 +587,11 @@
       "title": "Sancaktepe Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sancaktepe",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sancaktepe",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -584,11 +600,11 @@
       "title": "Sarıyer Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sariyer",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sariyer",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -597,11 +613,11 @@
       "title": "Şile Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 133,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sile",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sile",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -610,11 +626,11 @@
       "title": "Silivri Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/silivri",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/silivri",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -623,11 +639,11 @@
       "title": "Şişli Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sisli",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sisli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -636,11 +652,11 @@
       "title": "Sultanbeyli Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 140,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sultanbeyli",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sultanbeyli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -649,11 +665,11 @@
       "title": "Sultangazi Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/sultangazi",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/sultangazi",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -662,11 +678,11 @@
       "title": "Tuzla Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/tuzla",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/tuzla",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -675,11 +691,11 @@
       "title": "Ümraniye Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/umraniye",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/umraniye",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -688,11 +704,11 @@
       "title": "Üsküdar Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/uskudar",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/uskudar",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -701,11 +717,11 @@
       "title": "Zeytinburnu Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 140,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul/zeytinburnu",
+      "canonical": "https://www.lastikcienyakin.com/istanbul/zeytinburnu",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -714,11 +730,11 @@
       "title": "İstanbul Mobil Lastikçi | Size En Yakın Lastik Servisi",
       "descriptionLength": 154,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/istanbul",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/istanbul",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -727,11 +743,11 @@
       "title": "Başiskele Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 138,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/basiskele",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/basiskele",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -740,11 +756,11 @@
       "title": "Çayırova Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/cayirova",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/cayirova",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -753,11 +769,11 @@
       "title": "Darıca Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/darica",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/darica",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -766,11 +782,11 @@
       "title": "Derince Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/derince",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/derince",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -779,11 +795,11 @@
       "title": "Dilovası Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/dilovasi",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/dilovasi",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -792,11 +808,11 @@
       "title": "Gebze Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/gebze",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/gebze",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -805,11 +821,11 @@
       "title": "Gölcük Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/golcuk",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/golcuk",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -818,11 +834,11 @@
       "title": "İzmit Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/izmit",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/izmit",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -831,11 +847,11 @@
       "title": "Kandıra Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/kandira",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/kandira",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -844,11 +860,11 @@
       "title": "Karamürsel Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/karamursel",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/karamursel",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -857,11 +873,11 @@
       "title": "Kartepe Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/kartepe",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/kartepe",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -870,11 +886,11 @@
       "title": "Körfez Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli/korfez",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli/korfez",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -883,11 +899,11 @@
       "title": "Kocaeli Mobil Lastikçi | Konumunuza Lastik Desteği",
       "descriptionLength": 153,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/kocaeli",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/kocaeli",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -896,12 +912,12 @@
       "title": "Lastik tamiri | En Yakın Lastikçi",
       "descriptionLength": 159,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/lastik-tamiri",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/lastik-tamiri",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
         "Service",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -910,12 +926,12 @@
       "title": "Mobil lastik servisi | En Yakın Lastikçi",
       "descriptionLength": 159,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/mobil-lastikci",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/mobil-lastikci",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
         "Service",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -924,12 +940,12 @@
       "title": "Patlak lastik yardımı | En Yakın Lastikçi",
       "descriptionLength": 159,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/patlak-lastik-yardimi",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/patlak-lastik-yardimi",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
         "Service",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -938,11 +954,11 @@
       "title": "Adapazarı Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 138,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/adapazari",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/adapazari",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -951,11 +967,11 @@
       "title": "Akyazı Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/akyazi",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/akyazi",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -964,11 +980,11 @@
       "title": "Arifiye Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/arifiye",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/arifiye",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -977,11 +993,11 @@
       "title": "Erenler Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/erenler",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/erenler",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -990,11 +1006,11 @@
       "title": "Ferizli Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/ferizli",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/ferizli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1003,11 +1019,11 @@
       "title": "Geyve Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 134,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/geyve",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/geyve",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1016,11 +1032,11 @@
       "title": "Hendek Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/hendek",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/hendek",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1029,11 +1045,11 @@
       "title": "Karapürçek Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 139,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/karapurcek",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/karapurcek",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1042,11 +1058,11 @@
       "title": "Karasu Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 135,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/karasu",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/karasu",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1055,11 +1071,11 @@
       "title": "Kaynarca Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/kaynarca",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/kaynarca",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1068,11 +1084,11 @@
       "title": "Kocaali Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/kocaali",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/kocaali",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1081,11 +1097,11 @@
       "title": "Pamukova Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/pamukova",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/pamukova",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1094,11 +1110,11 @@
       "title": "Sapanca Mobil Lastikçi | En Yakın Yerinde Lastik Desteği",
       "descriptionLength": 155,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/sapanca",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/sapanca",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1107,11 +1123,11 @@
       "title": "Serdivan Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 137,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/serdivan",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/serdivan",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1120,11 +1136,11 @@
       "title": "Söğütlü Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/sogutlu",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/sogutlu",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1133,11 +1149,11 @@
       "title": "Taraklı Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 136,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya/tarakli",
+      "canonical": "https://www.lastikcienyakin.com/sakarya/tarakli",
       "robots": "noindex, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1146,11 +1162,11 @@
       "title": "Sakarya Mobil Lastikçi | Yerinde Lastik Desteği",
       "descriptionLength": 159,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/sakarya",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/sakarya",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     },
@@ -1159,12 +1175,12 @@
       "title": "Yerinde lastik değişimi | En Yakın Lastikçi",
       "descriptionLength": 159,
       "h1": 1,
-      "canonical": "https://lastikcienyakin.com/yerinde-lastik-degisimi",
-      "robots": "noindex, follow",
+      "canonical": "https://www.lastikcienyakin.com/yerinde-lastik-degisimi",
+      "robots": "index, follow",
       "schemaTypes": [
         "BreadcrumbList",
         "Service",
-        "Organization",
+        "AutomotiveBusiness",
         "WebSite"
       ]
     }

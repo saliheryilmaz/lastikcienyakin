@@ -2,7 +2,7 @@ export const siteConfig = {
   // TODO BUSINESS DATA: Veri sorumlusunun gerçek unvanı/adı ve varsa e-posta bilgisi bekleniyor.
   businessName: 'En Yakın Lastikçi',
   legalName: '',
-  domain: 'https://lastikcienyakin.com',
+  domain: 'https://www.lastikcienyakin.com',
   phone: process.env.NEXT_PUBLIC_BUSINESS_PHONE || '+905382916051',
   phoneDisplay: process.env.NEXT_PUBLIC_BUSINESS_PHONE_DISPLAY || '+90 538 291 60 51',
   whatsapp: process.env.NEXT_PUBLIC_BUSINESS_WHATSAPP || '905382916051',
@@ -28,7 +28,12 @@ export const siteConfig = {
   searchConsoleVerification: process.env.GOOGLE_SITE_VERIFICATION || '',
 };
 export const contactConfigured = /^\+90\d{10}$/.test(siteConfig.phone) && siteConfig.phone !== '+900000000000' && /^90\d{10}$/.test(siteConfig.whatsapp) && siteConfig.whatsapp !== '900000000000';
-export const isIndexable = process.env.SITE_INDEXABLE === 'true' && siteConfig.businessVerified && contactConfigured;
+// Production publication is independent from outstanding legal identity fields.
+// Preview/development deployments remain noindex even if production variables are inherited.
+const productionDeployment = process.env.VERCEL_ENV
+  ? process.env.VERCEL_ENV === 'production'
+  : process.env.NODE_ENV === 'production';
+export const isIndexable = productionDeployment && process.env.SITE_INDEXABLE !== 'false' && contactConfigured;
 export const includeDrafts = process.env.INCLUDE_DRAFT_CONTENT === 'true' && !isIndexable;
 // Canonical origin is independent from the publication gate.
 export const canonicalOrigin = siteConfig.domain;

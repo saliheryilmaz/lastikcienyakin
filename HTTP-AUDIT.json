@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-09-25T06:05:28.106Z",
+  "checkedAt": "2026-09-25T11:04:10.415Z",
   "publishedPageCount": 89,
   "results": [
-    {
-      "route": "/cerez-politikasi",
-      "status": 200
-    },
-    {
-      "route": "/duzce/cilimli",
-      "status": 200
-    },
     {
       "route": "/duzce/akcakoca",
       "status": 200
     },
     {
+      "route": "/cerez-politikasi",
+      "status": 200
+    },
+    {
       "route": "/duzce/cumayeri",
+      "status": 200
+    },
+    {
+      "route": "/duzce/cilimli",
       "status": 200
     },
     {
@@ -27,19 +27,15 @@
       "status": 200
     },
     {
-      "route": "/duzce",
-      "status": 200
-    },
-    {
-      "route": "/hakkimizda",
-      "status": 200
-    },
-    {
       "route": "/duzce/kaynasli",
       "status": 200
     },
     {
       "route": "/gizlilik-politikasi",
+      "status": 200
+    },
+    {
+      "route": "/duzce",
       "status": 200
     },
     {
@@ -51,15 +47,15 @@
       "status": 200
     },
     {
-      "route": "/hizmet-bolgeleri",
-      "status": 200
-    },
-    {
-      "route": "/iletisim",
+      "route": "/hakkimizda",
       "status": 200
     },
     {
       "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/hizmet-bolgeleri",
       "status": 200
     },
     {
@@ -75,6 +71,10 @@
       "status": 200
     },
     {
+      "route": "/iletisim",
+      "status": 200
+    },
+    {
       "route": "/istanbul/bakirkoy",
       "status": 200
     },
@@ -87,11 +87,11 @@
       "status": 200
     },
     {
-      "route": "/istanbul/bahcelievler",
+      "route": "/istanbul/basaksehir",
       "status": 200
     },
     {
-      "route": "/istanbul/basaksehir",
+      "route": "/istanbul/bahcelievler",
       "status": 200
     },
     {
@@ -103,7 +103,7 @@
       "status": 200
     },
     {
-      "route": "/istanbul/besiktas",
+      "route": "/istanbul/beykoz",
       "status": 200
     },
     {
@@ -111,7 +111,7 @@
       "status": 200
     },
     {
-      "route": "/istanbul/beykoz",
+      "route": "/istanbul/besiktas",
       "status": 200
     },
     {
@@ -127,15 +127,11 @@
       "status": 200
     },
     {
-      "route": "/istanbul/esenyurt",
-      "status": 200
-    },
-    {
       "route": "/istanbul/eyupsultan",
       "status": 200
     },
     {
-      "route": "/istanbul/cekmekoy",
+      "route": "/istanbul/esenyurt",
       "status": 200
     },
     {
@@ -144,6 +140,18 @@
     },
     {
       "route": "/istanbul/gaziosmanpasa",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/cekmekoy",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/kucukcekmece",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/gungoren",
       "status": 200
     },
     {
@@ -159,23 +167,7 @@
       "status": 200
     },
     {
-      "route": "/istanbul/gungoren",
-      "status": 200
-    },
-    {
       "route": "/istanbul/maltepe",
-      "status": 200
-    },
-    {
-      "route": "/istanbul/kucukcekmece",
-      "status": 200
-    },
-    {
-      "route": "/istanbul/pendik",
-      "status": 200
-    },
-    {
-      "route": "/istanbul/sancaktepe",
       "status": 200
     },
     {
@@ -183,11 +175,15 @@
       "status": 200
     },
     {
+      "route": "/istanbul/sancaktepe",
+      "status": 200
+    },
+    {
       "route": "/istanbul/sile",
       "status": 200
     },
     {
-      "route": "/istanbul/silivri",
+      "route": "/istanbul/pendik",
       "status": 200
     },
     {
@@ -195,7 +191,7 @@
       "status": 200
     },
     {
-      "route": "/istanbul/sultangazi",
+      "route": "/istanbul/silivri",
       "status": 200
     },
     {
@@ -219,7 +215,7 @@
       "status": 200
     },
     {
-      "route": "/istanbul",
+      "route": "/istanbul/sultangazi",
       "status": 200
     },
     {
@@ -227,15 +223,15 @@
       "status": 200
     },
     {
-      "route": "/kocaeli/darica",
-      "status": 200
-    },
-    {
-      "route": "/kocaeli/derince",
-      "status": 200
-    },
-    {
       "route": "/kocaeli/basiskele",
+      "status": 200
+    },
+    {
+      "route": "/istanbul",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/darica",
       "status": 200
     },
     {
@@ -243,11 +239,11 @@
       "status": 200
     },
     {
-      "route": "/kocaeli/golcuk",
+      "route": "/kocaeli/derince",
       "status": 200
     },
     {
-      "route": "/kocaeli/izmit",
+      "route": "/kocaeli/golcuk",
       "status": 200
     },
     {
@@ -263,11 +259,15 @@
       "status": 200
     },
     {
+      "route": "/kocaeli/izmit",
+      "status": 200
+    },
+    {
       "route": "/kocaeli/kartepe",
       "status": 200
     },
     {
-      "route": "/kocaeli",
+      "route": "/kocaeli/korfez",
       "status": 200
     },
     {
@@ -279,15 +279,27 @@
       "status": 200
     },
     {
-      "route": "/patlak-lastik-yardimi",
-      "status": 200
-    },
-    {
-      "route": "/kocaeli/korfez",
+      "route": "/kocaeli",
       "status": 200
     },
     {
       "route": "/sakarya/adapazari",
+      "status": 200
+    },
+    {
+      "route": "/patlak-lastik-yardimi",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/erenler",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/ferizli",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/arifiye",
       "status": 200
     },
     {
@@ -299,23 +311,7 @@
       "status": 200
     },
     {
-      "route": "/sakarya/arifiye",
-      "status": 200
-    },
-    {
-      "route": "/sakarya/ferizli",
-      "status": 200
-    },
-    {
-      "route": "/sakarya/erenler",
-      "status": 200
-    },
-    {
       "route": "/sakarya/hendek",
-      "status": 200
-    },
-    {
-      "route": "/sakarya/sapanca",
       "status": 200
     },
     {
@@ -323,11 +319,11 @@
       "status": 200
     },
     {
-      "route": "/sakarya/karasu",
+      "route": "/sakarya/karapurcek",
       "status": 200
     },
     {
-      "route": "/sakarya/karapurcek",
+      "route": "/sakarya/karasu",
       "status": 200
     },
     {
@@ -339,15 +335,15 @@
       "status": 200
     },
     {
+      "route": "/sakarya/sapanca",
+      "status": 200
+    },
+    {
       "route": "/sakarya",
       "status": 200
     },
     {
-      "route": "/yerinde-lastik-degisimi",
-      "status": 200
-    },
-    {
-      "route": "/sakarya/sogutlu",
+      "route": "/sakarya/tarakli",
       "status": 200
     },
     {
@@ -355,7 +351,11 @@
       "status": 200
     },
     {
-      "route": "/sakarya/tarakli",
+      "route": "/sakarya/sogutlu",
+      "status": 200
+    },
+    {
+      "route": "/yerinde-lastik-degisimi",
       "status": 200
     },
     {

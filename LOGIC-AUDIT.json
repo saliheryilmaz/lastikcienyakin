@@ -1,9 +1,11 @@
 {
-  "checkedAt": "2026-09-25T06:04:00.626Z",
-  "tests": 18,
+  "checkedAt": "2026-09-25T11:04:08.527Z",
+  "tests": 20,
   "passed": [
     "Noindex preview uses production canonical, empty sitemap and permissive robots",
-    "Index flag cannot bypass business verification",
+    "Production indexes without inventing legal verification",
+    "Preview and development cannot inherit production indexing",
+    "Explicit publication pause is respected",
     "Production fixture: 15 sitemap URLs and 74 editorial holds excluded",
     "Placeholder phone keeps indexing disabled",
     "Default service visibility retains 75 districts and four confirmed services",
@@ -17,8 +19,8 @@
     "Analytics effect loads nothing without IDs or consent",
     "Direct effect: consent before config, one script, one page view per route",
     "GTM takes precedence over GA/Ads IDs and does not duplicate events",
-    "Business schema uses Organization without an address and honors config logo/email",
-    "Local-business schema appears only in a verified address fixture",
+    "Mobile automotive schema has no invented address and honors confirmed hours/logo/email",
+    "Address is added only in a verified address fixture",
     "JSON-LD escapes script terminators safely"
   ],
   "errors": [],

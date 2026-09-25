@@ -1,0 +1,530 @@
+{
+  "checkedAt": "2026-09-25T11:05:10.785Z",
+  "routes": [
+    {
+      "route": "/cerez-politikasi",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/duzce/akcakoca",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/cilimli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/cumayeri",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/golyaka",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/gumusova",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/kaynasli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/merkez",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce/yigilca",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/duzce",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/gizlilik-politikasi",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/hakkimizda",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/hizmet-bolgeleri",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/iletisim",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/istanbul/adalar",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/arnavutkoy",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/atasehir",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/avcilar",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/bagcilar",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/bahcelievler",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/bakirkoy",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/basaksehir",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/bayrampasa",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/besiktas",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/beykoz",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/beylikduzu",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/beyoglu",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/buyukcekmece",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/catalca",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/cekmekoy",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/esenler",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/esenyurt",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/eyupsultan",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/fatih",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/gaziosmanpasa",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/gungoren",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/kadikoy",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/kagithane",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/kartal",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/kucukcekmece",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/maltepe",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/pendik",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sancaktepe",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sariyer",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sile",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/silivri",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sisli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sultanbeyli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/sultangazi",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/tuzla",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/umraniye",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/uskudar",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul/zeytinburnu",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/istanbul",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/kocaeli/basiskele",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/cayirova",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/darica",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/derince",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/dilovasi",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/gebze",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/golcuk",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/izmit",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/kandira",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/karamursel",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/kartepe",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli/korfez",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/kocaeli",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/lastik-tamiri",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/mobil-lastikci",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/patlak-lastik-yardimi",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/sakarya/adapazari",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/akyazi",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/arifiye",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/erenler",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/ferizli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/geyve",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/hendek",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/karapurcek",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/karasu",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/kaynarca",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/kocaali",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/pamukova",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/sapanca",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/sakarya/serdivan",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/sogutlu",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya/tarakli",
+      "status": 200,
+      "robots": "noindex, follow"
+    },
+    {
+      "route": "/sakarya",
+      "status": 200,
+      "robots": "index, follow"
+    },
+    {
+      "route": "/yerinde-lastik-degisimi",
+      "status": 200,
+      "robots": "index, follow"
+    }
+  ],
+  "assets": [
+    {
+      "path": "/_next/static/chunks/2q528di-o1c1k.css",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/196x_tfexoucg.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/2-rtuqsgzmno4.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/turbopack-3mtwpzaowkout.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/3fntmmi971322.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/01ulrvzoqxhvo.js",
+      "status": 200
+    },
+    {
+      "path": "/favicon.ico?favicon.3cm1vdjdwtexo.ico",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Flastikcienyakinlogo.png&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/static/chunks/2226dqo2kbc5j.js",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fmobil-lastik-servisi.webp&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fcalismalar%2Fseferler1.jpeg&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fcalismalar%2Fseferler2.jpeg&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fcalismalar%2Fseferler3.jpeg&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fcalismalar%2Fseferler4.jpeg&w=3840&q=75",
+      "status": 200
+    },
+    {
+      "path": "/_next/image?url=%2Fimages%2Fcalismalar%2Fseferler5.jpeg&w=3840&q=75",
+      "status": 200
+    }
+  ],
+  "hostRedirect": {
+    "status": 308,
+    "location": "https://www.lastikcienyakin.com/sakarya/sapanca?utm_source=google"
+  },
+  "designGalleryContactAnalyticsDependenciesUnchanged": true,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-09-25T11:11:40.407Z",
+  "liveBefore": {
+    "url": "https://www.lastikcienyakin.com/",
+    "lighthouseVersion": "13.5.0",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69
+    }
+  },
+  "localAfter": {
+    "url": "http://127.0.0.1:3000/",
+    "lighthouseVersion": "13.5.0",
+    "scores": {
+      "performance": 86,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    }
+  },
+  "noFailedScoredSeoAudits": true,
+  "warning": "Live CDN and local server performance are not directly comparable; deploy and repeat PSI. Lighthouse wrote valid reports, then Windows temporary-profile cleanup returned EPERM.",
+  "localBefore": {
+    "url": "http://127.0.0.1:3001/",
+    "lighthouseVersion": "13.5.0",
+    "scores": {
+      "performance": 77,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69
+    }
+  },
+  "performanceConclusion": "Same-machine isolated original source measured 77 versus fixed source 86. Single runs vary; no measured regression in this comparison, but production PSI 99 remains unverified until deployment."
+}
