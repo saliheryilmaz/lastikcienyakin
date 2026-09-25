@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-09-24T15:10:25.904Z",
+  "environment": "Local Next.js production build via next start",
+  "screenWidths": [
+    375,
+    390,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "routes": [
+    "/",
+    "/istanbul",
+    "/sakarya/sapanca",
+    "/istanbul/kadikoy",
+    "/hizmet-bolgeleri"
+  ],
+  "combinations": 30,
+  "horizontalOverflow": 0,
+  "clippedButtons": 0,
+  "sticky": {
+    "mobileDisplay": "grid",
+    "height": 74.8,
+    "footerClearance": 90,
+    "desktopDisplay": "none",
+    "safeArea": "CSS env(safe-area-inset-bottom), viewport-fit=cover; physical iPhone not tested"
+  },
+  "hero375x667": {
+    "callBottom": 503.53,
+    "whatsappBottom": 505.53,
+    "locationBottom": 575.13,
+    "stickyTop": 592.4
+  },
+  "behaviors": [
+    "Mobile menu opens/closes",
+    "FAQ opens via Enter",
+    "Location dialog opens; Escape closes; focus returns to Konum",
+    "WhatsApp target +905382916051 verified without sending",
+    "Sapanca UTM stays in address bar; canonical is query-free production URL"
+  ],
+  "consoleErrors": 0,
+  "consoleWarnings": 0,
+  "externalScriptsWithoutIds": 0,
+  "contrast": {
+    "page": "/sakarya/sapanca",
+    "textFailures": 0,
+    "method": "Computed text/background luminance; normal 4.5:1, large 3:1; excludes image overlays"
+  },
+  "limits": [
+    "No physical iPhone test",
+    "No field Core Web Vitals",
+    "No real Ads or Analytics delivery test"
+  ]
+}

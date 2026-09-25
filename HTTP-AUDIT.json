@@ -1,0 +1,376 @@
+{
+  "checkedAt": "2026-09-25T06:05:28.106Z",
+  "publishedPageCount": 89,
+  "results": [
+    {
+      "route": "/cerez-politikasi",
+      "status": 200
+    },
+    {
+      "route": "/duzce/cilimli",
+      "status": 200
+    },
+    {
+      "route": "/duzce/akcakoca",
+      "status": 200
+    },
+    {
+      "route": "/duzce/cumayeri",
+      "status": 200
+    },
+    {
+      "route": "/duzce/golyaka",
+      "status": 200
+    },
+    {
+      "route": "/duzce/gumusova",
+      "status": 200
+    },
+    {
+      "route": "/duzce",
+      "status": 200
+    },
+    {
+      "route": "/hakkimizda",
+      "status": 200
+    },
+    {
+      "route": "/duzce/kaynasli",
+      "status": 200
+    },
+    {
+      "route": "/gizlilik-politikasi",
+      "status": 200
+    },
+    {
+      "route": "/duzce/merkez",
+      "status": 200
+    },
+    {
+      "route": "/duzce/yigilca",
+      "status": 200
+    },
+    {
+      "route": "/hizmet-bolgeleri",
+      "status": 200
+    },
+    {
+      "route": "/iletisim",
+      "status": 200
+    },
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/adalar",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/arnavutkoy",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/atasehir",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/bakirkoy",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/avcilar",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/bagcilar",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/bahcelievler",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/basaksehir",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/bayrampasa",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/beylikduzu",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/besiktas",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/beyoglu",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/beykoz",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/buyukcekmece",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/catalca",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/esenler",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/esenyurt",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/eyupsultan",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/cekmekoy",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/fatih",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/gaziosmanpasa",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/kadikoy",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/kagithane",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/kartal",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/gungoren",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/maltepe",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/kucukcekmece",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/pendik",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sancaktepe",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sariyer",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sile",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/silivri",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sisli",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sultangazi",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/sultanbeyli",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/umraniye",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/tuzla",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/uskudar",
+      "status": 200
+    },
+    {
+      "route": "/istanbul/zeytinburnu",
+      "status": 200
+    },
+    {
+      "route": "/istanbul",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/cayirova",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/darica",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/derince",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/basiskele",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/dilovasi",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/golcuk",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/izmit",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/kandira",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/gebze",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/karamursel",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/kartepe",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli",
+      "status": 200
+    },
+    {
+      "route": "/lastik-tamiri",
+      "status": 200
+    },
+    {
+      "route": "/mobil-lastikci",
+      "status": 200
+    },
+    {
+      "route": "/patlak-lastik-yardimi",
+      "status": 200
+    },
+    {
+      "route": "/kocaeli/korfez",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/adapazari",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/akyazi",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/geyve",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/arifiye",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/ferizli",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/erenler",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/hendek",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/sapanca",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/kaynarca",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/karasu",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/karapurcek",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/kocaali",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/pamukova",
+      "status": 200
+    },
+    {
+      "route": "/sakarya",
+      "status": 200
+    },
+    {
+      "route": "/yerinde-lastik-degisimi",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/sogutlu",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/serdivan",
+      "status": 200
+    },
+    {
+      "route": "/sakarya/tarakli",
+      "status": 200
+    },
+    {
+      "route": "/olmayan-sayfa",
+      "status": 404
+    },
+    {
+      "route": "/istanbul/olmayan-ilce",
+      "status": 404
+    },
+    {
+      "route": "/sakarya/sapanca/",
+      "status": 308,
+      "location": "/sakarya/sapanca"
+    }
+  ],
+  "errors": []
+}

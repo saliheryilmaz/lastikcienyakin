@@ -1,0 +1,35 @@
+
+> lastikcienyakin@1.0.0 build
+> next build
+
+▲ Next.js 16.3.6 (Turbopack)
+✓ Running next.config.ts took 364ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 6.9s
+  Running TypeScript ...
+  Finished TypeScript in 4.8s ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/91) ...
+  Generating static pages using 7 workers (22/91) 
+  Generating static pages using 7 workers (45/91) 
+  Generating static pages using 7 workers (68/91) 
+✓ Generating static pages using 7 workers (91/91) in 2.2s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├   /[...slug]
+│ ├ ● /istanbul
+│ ├ ● /sakarya
+│ ├ ● /sakarya/sapanca
+│ └ ● [+82 more paths]
+├ ○ /icon.svg
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+

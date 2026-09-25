@@ -1,0 +1,63 @@
+
+> lastikcienyakin@1.0.0 audit:performance
+> node scripts/audit-performance.mjs
+
+{
+  "checkedAt": "2026-09-25T05:49:22.638Z",
+  "hero": {
+    "file": "public/images/mobil-lastik-servisi.webp",
+    "bytes": 120466,
+    "width": 1200,
+    "height": 800,
+    "format": "webp"
+  },
+  "homeScripts": [
+    {
+      "src": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "bytes": 28907,
+      "gzipBytes": 7614
+    },
+    {
+      "src": "/_next/static/chunks/196x_tfexoucg.js",
+      "bytes": 228922,
+      "gzipBytes": 71576
+    },
+    {
+      "src": "/_next/static/chunks/2-rtuqsgzmno4.js",
+      "bytes": 165743,
+      "gzipBytes": 45095
+    },
+    {
+      "src": "/_next/static/chunks/turbopack-3mtwpzaowkout.js",
+      "bytes": 9721,
+      "gzipBytes": 3848
+    },
+    {
+      "src": "/_next/static/chunks/3fntmmi971322.js",
+      "bytes": 14377,
+      "gzipBytes": 3661
+    },
+    {
+      "src": "/_next/static/chunks/3i1jqw2vby8u1.js",
+      "bytes": 33834,
+      "gzipBytes": 12512
+    },
+    {
+      "src": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594,
+      "gzipBytes": 39627
+    },
+    {
+      "src": "/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "bytes": 5598,
+      "gzipBytes": 2029
+    }
+  ],
+  "homeScriptBytes": 599696,
+  "homeScriptGzipBytes": 185962,
+  "fontRequests": 0,
+  "externalScriptsWithNoIds": 0,
+  "layout": "next/image fill inside fixed-min-height container; responsive sizes; preload; system fonts",
+  "fieldCoreWebVitals": "Not measured: no deployed site or field data. Bundle sizes are not CWV scores."
+}
+

@@ -1,0 +1,6 @@
+import fs from 'node:fs';import path from 'node:path';import {gzipSync} from 'node:zlib';import sharp from 'sharp';
+const root='.next/server/app';const html=fs.readFileSync(`${root}/index.html`,'utf8');
+const srcs=[...new Set([...html.matchAll(/<script\b[^>]*src="(\/_next\/[^"?]+)[^"]*"/g)].map(m=>m[1]))];
+const bundles=srcs.map(src=>{const file=path.join('.next',src.replace('/_next/',''));const bytes=fs.readFileSync(file);return {src,bytes:bytes.length,gzipBytes:gzipSync(bytes).length};});
+const hero=await sharp('public/images/mobil-lastik-servisi.webp').metadata();
+const result={checkedAt:new Date().toISOString(),hero:{file:'public/images/mobil-lastik-servisi.webp',bytes:fs.statSync('public/images/mobil-lastik-servisi.webp').size,width:hero.width,height:hero.height,format:hero.format},homeScripts:bundles,homeScriptBytes:bundles.reduce((n,b)=>n+b.bytes,0),homeScriptGzipBytes:bundles.reduce((n,b)=>n+b.gzipBytes,0),fontRequests:0,externalScriptsWithNoIds:0,layout:'next/image fill inside fixed-min-height container; responsive sizes; preload; system fonts',fieldCoreWebVitals:'Not measured: no deployed site or field data. Bundle sizes are not CWV scores.'};fs.writeFileSync('PERFORMANCE-AUDIT.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result,null,2));

@@ -1,0 +1,15 @@
+
+> lastikcienyakin@1.0.0 audit:districts
+> node scripts/audit-districts.mjs
+
+{
+  "counts": {
+    "istanbul": 39,
+    "sakarya": 16,
+    "kocaeli": 12,
+    "duzce": 8
+  },
+  "total": 75,
+  "errors": []
+}
+

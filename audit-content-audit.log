@@ -1,0 +1,28 @@
+
+> lastikcienyakin@1.0.0 audit:content
+> node scripts/audit-content.mjs
+
+{
+  "locations": 79,
+  "pairs": 3081,
+  "exactDuplicates": 0,
+  "editorialHold": 74,
+  "topOverlap": [
+    {
+      "a": "sakarya/karasu",
+      "b": "duzce/akcakoca",
+      "similarity": 0.1916
+    },
+    {
+      "a": "sakarya/serdivan",
+      "b": "kocaeli/cayirova",
+      "similarity": 0.1711
+    },
+    {
+      "a": "istanbul/atasehir",
+      "b": "istanbul/kagithane",
+      "similarity": 0.1667
+    }
+  ]
+}
+

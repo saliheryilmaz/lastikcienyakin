@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-09-25T05:49:22.671Z",
+  "results": [
+    {
+      "command": "npm run typecheck",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 typecheck\n> tsc --noEmit",
+      "error": ""
+    },
+    {
+      "command": "npm run lint",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 lint\n> eslint .",
+      "error": ""
+    },
+    {
+      "command": "npm run audit:logic",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 audit:logic\n> node scripts/audit-logic.mjs\n\n18 logic checks PASS",
+      "error": ""
+    },
+    {
+      "command": "npm run audit:seo",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 audit:seo\n> node scripts/audit-seo.mjs\n\n{\n  \"pages\": 86,\n  \"mode\": \"noindex-preview\",\n  \"errors\": [],\n  \"warnings\": [],\n  \"orphanPages\": 0\n}",
+      "error": ""
+    },
+    {
+      "command": "npm run audit:districts",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 audit:districts\n> node scripts/audit-districts.mjs\n\n{\n  \"counts\": {\n    \"istanbul\": 39,\n    \"sakarya\": 16,\n    \"kocaeli\": 12,\n    \"duzce\": 8\n  },\n  \"total\": 75,\n  \"errors\": []\n}",
+      "error": ""
+    },
+    {
+      "command": "npm run audit:content",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 audit:content\n> node scripts/audit-content.mjs\n\n{\n  \"locations\": 79,\n  \"pairs\": 3081,\n  \"exactDuplicates\": 0,\n  \"editorialHold\": 74,\n  \"topOverlap\": [\n    {\n      \"a\": \"sakarya/karasu\",\n      \"b\": \"duzce/akcakoca\",\n      \"similarity\": 0.1916\n    },\n    {\n      \"a\": \"sakarya/serdivan\",\n      \"b\": \"kocaeli/cayirova\",\n      \"similarity\": 0.1711\n    },\n    {\n      \"a\": \"istanbul/atasehir\",\n      \"b\": \"istanbul/kagithane\",\n      \"similarity\": 0.1667\n    }\n  ]\n}",
+      "error": ""
+    },
+    {
+      "command": "npm run audit:performance",
+      "exitCode": 0,
+      "output": "> lastikcienyakin@1.0.0 audit:performance\n> node scripts/audit-performance.mjs\n\n{\n  \"checkedAt\": \"2026-09-25T05:49:22.638Z\",\n  \"hero\": {\n    \"file\": \"public/images/mobil-lastik-servisi.webp\",\n    \"bytes\": 120466,\n    \"width\": 1200,\n    \"height\": 800,\n    \"format\": \"webp\"\n  },\n  \"homeScripts\": [\n    {\n      \"src\": \"/_next/static/chunks/19mx3mg6lkumu.js\",\n      \"bytes\": 28907,\n      \"gzipBytes\": 7614\n    },\n    {\n      \"src\": \"/_next/static/chunks/196x_tfexoucg.js\",\n      \"bytes\": 228922,\n      \"gzipBytes\": 71576\n    },\n    {\n      \"src\": \"/_next/static/chunks/2-rtuqsgzmno4.js\",\n      \"bytes\": 165743,\n      \"gzipBytes\": 45095\n    },\n    {\n      \"src\": \"/_next/static/chunks/turbopack-3mtwpzaowkout.js\",\n      \"bytes\": 9721,\n      \"gzipBytes\": 3848\n    },\n    {\n      \"src\": \"/_next/static/chunks/3fntmmi971322.js\",\n      \"bytes\": 14377,\n      \"gzipBytes\": 3661\n    },\n    {\n      \"src\": \"/_next/static/chunks/3i1jqw2vby8u1.js\",\n      \"bytes\": 33834,\n      \"gzipBytes\": 12512\n    },\n    {\n      \"src\": \"/_next/static/chunks/0cz1d0mv5g_q7.js\",\n      \"bytes\": 112594,\n      \"gzipBytes\": 39627\n    },\n    {\n      \"src\": \"/_next/static/chunks/3s6nzrbk-8mnv.js\",\n      \"bytes\": 5598,\n      \"gzipBytes\": 2029\n    }\n  ],\n  \"homeScriptBytes\": 599696,\n  \"homeScriptGzipBytes\": 185962,\n  \"fontRequests\": 0,\n  \"externalScriptsWithNoIds\": 0,\n  \"layout\": \"next/image fill inside fixed-min-height container; responsive sizes; preload; system fonts\",\n  \"fieldCoreWebVitals\": \"Not measured: no deployed site or field data. Bundle sizes are not CWV scores.\"\n}",
+      "error": ""
+    }
+  ]
+}

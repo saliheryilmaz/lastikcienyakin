@@ -1,0 +1,12 @@
+
+> lastikcienyakin@1.0.0 audit:seo
+> node scripts/audit-seo.mjs
+
+{
+  "pages": 86,
+  "mode": "noindex-preview",
+  "errors": [],
+  "warnings": [],
+  "orphanPages": 0
+}
+

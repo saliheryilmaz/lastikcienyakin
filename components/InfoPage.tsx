@@ -1,0 +1,8 @@
+import { PageHero } from './DetailPages';
+import { ContactButtons } from './cta/ContactButtons';
+import { LocationDirectory } from './LocationDirectory';
+import { CTABand } from './Sections';
+import { ConsentSettings } from './Analytics';
+import { infoPages } from '@/data/pages';
+import { contactConfigured, siteConfig } from '@/siteConfig';
+export function InfoPage({page:p}:{page:typeof infoPages[number]}){const legal=p.slug.includes('politikasi');return <main id="main"><PageHero title={p.title} intro={p.intro} path={`/${p.slug}`}>{!legal&&<ContactButtons placement={p.slug}/>}</PageHero><section className="section"><div className="container reading-grid"><div className="prose">{p.slug==='hizmet-bolgeleri'?<><h2>Şehir ve ilçe rehberi</h2><p>Listelenen bölgeler fiziksel şube değildir. Dört ilin her birinde ekiplerimiz bulunur. Tam konuma erişim ve ilgili ekibin anlık uygunluğu iletişim sırasında teyit edilir.</p><LocationDirectory/></>:p.sections.map(s=><section key={s.title}><h2>{s.title}</h2><p>{s.text}</p></section>)}{p.slug==='cerez-politikasi'&&<ConsentSettings/>}</div><aside className="info-card"><h2>{legal?'İşletme bilgileri':'Doğrudan iletişim'}</h2><p>{siteConfig.legalName||siteConfig.businessName}</p>{siteConfig.email&&<p><a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a></p>}{!contactConfigured?<p className="draft-note">Önizleme: gerçek işletme unvanı ve iletişim bilgileri eklenecek.</p>:<ContactButtons placement="info_sidebar"/>}<p>{siteConfig.serviceAreas.join(' · ')}</p>{siteConfig.businessHours.length>0&&<><h2>Çalışma saatleri</h2><p>{siteConfig.businessHoursLabel}</p></>}</aside></div></section>{!legal&&<CTABand final/>}</main>;}

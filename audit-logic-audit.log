@@ -1,0 +1,6 @@
+
+> lastikcienyakin@1.0.0 audit:logic
+> node scripts/audit-logic.mjs
+
+18 logic checks PASS
+

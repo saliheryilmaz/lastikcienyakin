@@ -1,0 +1,6 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const audit=JSON.parse(fs.readFileSync('SEO-AUDIT.json','utf8'));const results=[];
+for(let i=0;i<audit.checks.length;i+=6){await Promise.all(audit.checks.slice(i,i+6).map(async p=>{const r=await fetch('http://127.0.0.1:3000'+p.route);assert.equal(r.status,200,p.route);results.push({route:p.route,status:r.status});}));}
+for(const route of ['/olmayan-sayfa','/istanbul/olmayan-ilce']){const response=await fetch('http://127.0.0.1:3000'+route);assert.equal(response.status,404,route);const html=await response.text();assert(html.includes('Ana sayfaya dön')&&html.includes('tel:+905382916051')&&html.includes('https://wa.me/905382916051'));results.push({route,status:response.status});}
+const slash=await fetch('http://127.0.0.1:3000/sakarya/sapanca/',{redirect:'manual'});assert.equal(slash.status,308);results.push({route:'/sakarya/sapanca/',status:slash.status,location:slash.headers.get('location')});
+fs.writeFileSync('HTTP-AUDIT.json',JSON.stringify({checkedAt:new Date().toISOString(),publishedPageCount:audit.pages,results,errors:[]},null,2));console.log(`${audit.pages} pages HTTP 200; 2 missing routes HTTP 404; trailing slash HTTP 308`);

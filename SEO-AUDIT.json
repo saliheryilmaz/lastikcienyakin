@@ -1,0 +1,1172 @@
+{
+  "checkedAt": "2026-09-25T06:27:31.941Z",
+  "root": ".next/server/app",
+  "mode": "noindex-preview",
+  "pages": 89,
+  "errors": [],
+  "warnings": [],
+  "orphanPages": [],
+  "sitemapUrls": [],
+  "checks": [
+    {
+      "route": "/cerez-politikasi",
+      "title": "Çerez politikası | En Yakın Lastikçi",
+      "descriptionLength": 150,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/cerez-politikasi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/akcakoca",
+      "title": "Akçakoca Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/akcakoca",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/cilimli",
+      "title": "Çilimli Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/cilimli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/cumayeri",
+      "title": "Cumayeri Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/cumayeri",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/golyaka",
+      "title": "Gölyaka Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/golyaka",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/gumusova",
+      "title": "Gümüşova Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/gumusova",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/kaynasli",
+      "title": "Kaynaşlı Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/kaynasli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/merkez",
+      "title": "Düzce Merkez Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 141,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/merkez",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce/yigilca",
+      "title": "Yığılca Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce/yigilca",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/duzce",
+      "title": "Düzce Mobil Lastikçi | Yerinde Lastik Servisi",
+      "descriptionLength": 158,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/duzce",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/gizlilik-politikasi",
+      "title": "Gizlilik politikası | En Yakın Lastikçi",
+      "descriptionLength": 148,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/gizlilik-politikasi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/hakkimizda",
+      "title": "Hakkımızda | En Yakın Lastikçi",
+      "descriptionLength": 156,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/hakkimizda",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/hizmet-bolgeleri",
+      "title": "Hizmet bölgelerimiz | En Yakın Lastikçi",
+      "descriptionLength": 163,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/hizmet-bolgeleri",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/iletisim",
+      "title": "Bize ulaşın | En Yakın Lastikçi",
+      "descriptionLength": 157,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/iletisim",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/",
+      "title": "En Yakın Lastikçi | Yerinde Mobil Lastik Servisi",
+      "descriptionLength": 168,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/adalar",
+      "title": "Adalar Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/adalar",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/arnavutkoy",
+      "title": "Arnavutköy Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/arnavutkoy",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/atasehir",
+      "title": "Ataşehir Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/atasehir",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/avcilar",
+      "title": "Avcılar Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/avcilar",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/bagcilar",
+      "title": "Bağcılar Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/bagcilar",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/bahcelievler",
+      "title": "Bahçelievler Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 141,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/bahcelievler",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/bakirkoy",
+      "title": "Bakırköy Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/bakirkoy",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/basaksehir",
+      "title": "Başakşehir Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/basaksehir",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/bayrampasa",
+      "title": "Bayrampaşa Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/bayrampasa",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/besiktas",
+      "title": "Beşiktaş Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/besiktas",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/beykoz",
+      "title": "Beykoz Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/beykoz",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/beylikduzu",
+      "title": "Beylikdüzü Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/beylikduzu",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/beyoglu",
+      "title": "Beyoğlu Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/beyoglu",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/buyukcekmece",
+      "title": "Büyükçekmece Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 141,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/buyukcekmece",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/catalca",
+      "title": "Çatalca Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/catalca",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/cekmekoy",
+      "title": "Çekmeköy Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/cekmekoy",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/esenler",
+      "title": "Esenler Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/esenler",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/esenyurt",
+      "title": "Esenyurt Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/esenyurt",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/eyupsultan",
+      "title": "Eyüpsultan Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/eyupsultan",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/fatih",
+      "title": "Fatih Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/fatih",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/gaziosmanpasa",
+      "title": "Gaziosmanpaşa Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 142,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/gaziosmanpasa",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/gungoren",
+      "title": "Güngören Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/gungoren",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/kadikoy",
+      "title": "Kadıköy Mobil Lastikçi | Yerinde Lastik Servisi",
+      "descriptionLength": 158,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/kadikoy",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/kagithane",
+      "title": "Kağıthane Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 138,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/kagithane",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/kartal",
+      "title": "Kartal Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/kartal",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/kucukcekmece",
+      "title": "Küçükçekmece Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 141,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/kucukcekmece",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/maltepe",
+      "title": "Maltepe Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/maltepe",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/pendik",
+      "title": "Pendik Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/pendik",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sancaktepe",
+      "title": "Sancaktepe Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sancaktepe",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sariyer",
+      "title": "Sarıyer Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sariyer",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sile",
+      "title": "Şile Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 133,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sile",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/silivri",
+      "title": "Silivri Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/silivri",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sisli",
+      "title": "Şişli Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sisli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sultanbeyli",
+      "title": "Sultanbeyli Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 140,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sultanbeyli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/sultangazi",
+      "title": "Sultangazi Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/sultangazi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/tuzla",
+      "title": "Tuzla Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/tuzla",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/umraniye",
+      "title": "Ümraniye Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/umraniye",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/uskudar",
+      "title": "Üsküdar Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/uskudar",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul/zeytinburnu",
+      "title": "Zeytinburnu Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 140,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul/zeytinburnu",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/istanbul",
+      "title": "İstanbul Mobil Lastikçi | Size En Yakın Lastik Servisi",
+      "descriptionLength": 154,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/istanbul",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/basiskele",
+      "title": "Başiskele Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 138,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/basiskele",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/cayirova",
+      "title": "Çayırova Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/cayirova",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/darica",
+      "title": "Darıca Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/darica",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/derince",
+      "title": "Derince Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/derince",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/dilovasi",
+      "title": "Dilovası Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/dilovasi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/gebze",
+      "title": "Gebze Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/gebze",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/golcuk",
+      "title": "Gölcük Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/golcuk",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/izmit",
+      "title": "İzmit Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/izmit",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/kandira",
+      "title": "Kandıra Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/kandira",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/karamursel",
+      "title": "Karamürsel Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/karamursel",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/kartepe",
+      "title": "Kartepe Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/kartepe",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli/korfez",
+      "title": "Körfez Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli/korfez",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/kocaeli",
+      "title": "Kocaeli Mobil Lastikçi | Konumunuza Lastik Desteği",
+      "descriptionLength": 153,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/kocaeli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/lastik-tamiri",
+      "title": "Lastik tamiri | En Yakın Lastikçi",
+      "descriptionLength": 159,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/lastik-tamiri",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/mobil-lastikci",
+      "title": "Mobil lastik servisi | En Yakın Lastikçi",
+      "descriptionLength": 159,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/mobil-lastikci",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/patlak-lastik-yardimi",
+      "title": "Patlak lastik yardımı | En Yakın Lastikçi",
+      "descriptionLength": 159,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/patlak-lastik-yardimi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/adapazari",
+      "title": "Adapazarı Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 138,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/adapazari",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/akyazi",
+      "title": "Akyazı Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/akyazi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/arifiye",
+      "title": "Arifiye Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/arifiye",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/erenler",
+      "title": "Erenler Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/erenler",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/ferizli",
+      "title": "Ferizli Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/ferizli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/geyve",
+      "title": "Geyve Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 134,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/geyve",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/hendek",
+      "title": "Hendek Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/hendek",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/karapurcek",
+      "title": "Karapürçek Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 139,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/karapurcek",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/karasu",
+      "title": "Karasu Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 135,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/karasu",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/kaynarca",
+      "title": "Kaynarca Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/kaynarca",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/kocaali",
+      "title": "Kocaali Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/kocaali",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/pamukova",
+      "title": "Pamukova Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/pamukova",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/sapanca",
+      "title": "Sapanca Mobil Lastikçi | En Yakın Yerinde Lastik Desteği",
+      "descriptionLength": 155,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/sapanca",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/serdivan",
+      "title": "Serdivan Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 137,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/serdivan",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/sogutlu",
+      "title": "Söğütlü Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/sogutlu",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya/tarakli",
+      "title": "Taraklı Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 136,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya/tarakli",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/sakarya",
+      "title": "Sakarya Mobil Lastikçi | Yerinde Lastik Desteği",
+      "descriptionLength": 159,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/sakarya",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ]
+    },
+    {
+      "route": "/yerinde-lastik-degisimi",
+      "title": "Yerinde lastik değişimi | En Yakın Lastikçi",
+      "descriptionLength": 159,
+      "h1": 1,
+      "canonical": "https://lastikcienyakin.com/yerinde-lastik-degisimi",
+      "robots": "noindex, follow",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ]
+    }
+  ]
+}

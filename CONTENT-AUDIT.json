@@ -1,0 +1,485 @@
+{
+  "checkedAt": "2026-09-25T06:04:04.947Z",
+  "locations": 79,
+  "comparedPairs": 3081,
+  "normalizedExactDuplicates": [],
+  "highestTrigramOverlap": [
+    {
+      "a": "sakarya/karasu",
+      "b": "duzce/akcakoca",
+      "similarity": 0.1916
+    },
+    {
+      "a": "sakarya/serdivan",
+      "b": "kocaeli/cayirova",
+      "similarity": 0.1711
+    },
+    {
+      "a": "istanbul/atasehir",
+      "b": "istanbul/kagithane",
+      "similarity": 0.1667
+    },
+    {
+      "a": "istanbul/gungoren",
+      "b": "sakarya/erenler",
+      "similarity": 0.1661
+    },
+    {
+      "a": "sakarya/geyve",
+      "b": "duzce/golyaka",
+      "similarity": 0.1661
+    },
+    {
+      "a": "kocaeli/basiskele",
+      "b": "kocaeli/gebze",
+      "similarity": 0.1654
+    },
+    {
+      "a": "sakarya/tarakli",
+      "b": "kocaeli/kandira",
+      "similarity": 0.1636
+    },
+    {
+      "a": "istanbul/umraniye",
+      "b": "kocaeli/gebze",
+      "similarity": 0.161
+    },
+    {
+      "a": "istanbul/umraniye",
+      "b": "duzce/kaynasli",
+      "similarity": 0.161
+    },
+    {
+      "a": "istanbul/bagcilar",
+      "b": "kocaeli/golcuk",
+      "similarity": 0.1604
+    },
+    {
+      "a": "kocaeli/kandira",
+      "b": "duzce/akcakoca",
+      "similarity": 0.1591
+    },
+    {
+      "a": "sakarya/geyve",
+      "b": "kocaeli/basiskele",
+      "similarity": 0.1583
+    }
+  ],
+  "editorialHold": [
+    "istanbul/kadikoy",
+    "istanbul/adalar",
+    "istanbul/arnavutkoy",
+    "istanbul/atasehir",
+    "istanbul/avcilar",
+    "istanbul/bagcilar",
+    "istanbul/bahcelievler",
+    "istanbul/bakirkoy",
+    "istanbul/basaksehir",
+    "istanbul/bayrampasa",
+    "istanbul/besiktas",
+    "istanbul/beykoz",
+    "istanbul/beylikduzu",
+    "istanbul/beyoglu",
+    "istanbul/buyukcekmece",
+    "istanbul/catalca",
+    "istanbul/cekmekoy",
+    "istanbul/esenler",
+    "istanbul/esenyurt",
+    "istanbul/eyupsultan",
+    "istanbul/fatih",
+    "istanbul/gaziosmanpasa",
+    "istanbul/gungoren",
+    "istanbul/kagithane",
+    "istanbul/kartal",
+    "istanbul/kucukcekmece",
+    "istanbul/maltepe",
+    "istanbul/pendik",
+    "istanbul/sancaktepe",
+    "istanbul/sariyer",
+    "istanbul/silivri",
+    "istanbul/sultanbeyli",
+    "istanbul/sultangazi",
+    "istanbul/sile",
+    "istanbul/sisli",
+    "istanbul/tuzla",
+    "istanbul/umraniye",
+    "istanbul/uskudar",
+    "istanbul/zeytinburnu",
+    "sakarya/adapazari",
+    "sakarya/akyazi",
+    "sakarya/arifiye",
+    "sakarya/erenler",
+    "sakarya/ferizli",
+    "sakarya/geyve",
+    "sakarya/hendek",
+    "sakarya/karapurcek",
+    "sakarya/karasu",
+    "sakarya/kaynarca",
+    "sakarya/kocaali",
+    "sakarya/pamukova",
+    "sakarya/serdivan",
+    "sakarya/sogutlu",
+    "sakarya/tarakli",
+    "kocaeli/basiskele",
+    "kocaeli/cayirova",
+    "kocaeli/darica",
+    "kocaeli/derince",
+    "kocaeli/dilovasi",
+    "kocaeli/gebze",
+    "kocaeli/golcuk",
+    "kocaeli/izmit",
+    "kocaeli/kandira",
+    "kocaeli/karamursel",
+    "kocaeli/kartepe",
+    "kocaeli/korfez",
+    "duzce/merkez",
+    "duzce/akcakoca",
+    "duzce/cilimli",
+    "duzce/cumayeri",
+    "duzce/golyaka",
+    "duzce/gumusova",
+    "duzce/kaynasli",
+    "duzce/yigilca"
+  ],
+  "editorialConclusion": "Lexical difference is not proof of local value. Generic parking, access and tyre advice dominates most district pages. The 74 districts except Sapanca remain available but noindex until operationally grounded local content is reviewed.",
+  "serviceIntents": [
+    {
+      "slug": "mobil-lastikci",
+      "confirmed": true,
+      "description": "Aracınızı bir servise götürmeden önce bizi arayın. Konumunuzu ve lastik sorununuzu paylaşın; mobil müdahalenin uygunluğunu ve ekip durumunu birlikte netleştirelim."
+    },
+    {
+      "slug": "patlak-lastik-yardimi",
+      "confirmed": true,
+      "description": "Hava kaybı veya patlak durumunda lastiğin fotoğrafı ilk değerlendirmeye yardımcı olabilir. Tamir, uygun yedek lastikle değişim veya farklı bir çözüm gerekip gerekmediği hasara göre belirlenir."
+    },
+    {
+      "slug": "yerinde-lastik-degisimi",
+      "confirmed": true,
+      "description": "Değişim için araçla uyumlu lastik, uygun ekipman ve güvenli bir çalışma alanı gerekir. Yedek lastiğinizin bulunup bulunmadığını ve bijon kilidi durumunu görüşmede belirtin."
+    },
+    {
+      "slug": "lastik-tamiri",
+      "confirmed": true,
+      "description": "Lastik tamirinde ilk adım hasarın onarıma uygun olup olmadığını belirlemektir. Görünür bir çivi veya vida tek başına tamir yapılabileceği anlamına gelmez; lastiğin iç yapısı da değerlendirilir."
+    }
+  ],
+  "wordCounts": [
+    {
+      "slug": "istanbul",
+      "words": 147
+    },
+    {
+      "slug": "sakarya",
+      "words": 135
+    },
+    {
+      "slug": "sakarya/sapanca",
+      "words": 294
+    },
+    {
+      "slug": "kocaeli",
+      "words": 101
+    },
+    {
+      "slug": "duzce",
+      "words": 96
+    },
+    {
+      "slug": "istanbul/kadikoy",
+      "words": 107
+    },
+    {
+      "slug": "istanbul/adalar",
+      "words": 166
+    },
+    {
+      "slug": "istanbul/arnavutkoy",
+      "words": 159
+    },
+    {
+      "slug": "istanbul/atasehir",
+      "words": 162
+    },
+    {
+      "slug": "istanbul/avcilar",
+      "words": 168
+    },
+    {
+      "slug": "istanbul/bagcilar",
+      "words": 153
+    },
+    {
+      "slug": "istanbul/bahcelievler",
+      "words": 156
+    },
+    {
+      "slug": "istanbul/bakirkoy",
+      "words": 159
+    },
+    {
+      "slug": "istanbul/basaksehir",
+      "words": 159
+    },
+    {
+      "slug": "istanbul/bayrampasa",
+      "words": 161
+    },
+    {
+      "slug": "istanbul/besiktas",
+      "words": 158
+    },
+    {
+      "slug": "istanbul/beykoz",
+      "words": 162
+    },
+    {
+      "slug": "istanbul/beylikduzu",
+      "words": 160
+    },
+    {
+      "slug": "istanbul/beyoglu",
+      "words": 163
+    },
+    {
+      "slug": "istanbul/buyukcekmece",
+      "words": 152
+    },
+    {
+      "slug": "istanbul/catalca",
+      "words": 162
+    },
+    {
+      "slug": "istanbul/cekmekoy",
+      "words": 163
+    },
+    {
+      "slug": "istanbul/esenler",
+      "words": 160
+    },
+    {
+      "slug": "istanbul/esenyurt",
+      "words": 166
+    },
+    {
+      "slug": "istanbul/eyupsultan",
+      "words": 154
+    },
+    {
+      "slug": "istanbul/fatih",
+      "words": 155
+    },
+    {
+      "slug": "istanbul/gaziosmanpasa",
+      "words": 155
+    },
+    {
+      "slug": "istanbul/gungoren",
+      "words": 151
+    },
+    {
+      "slug": "istanbul/kagithane",
+      "words": 155
+    },
+    {
+      "slug": "istanbul/kartal",
+      "words": 154
+    },
+    {
+      "slug": "istanbul/kucukcekmece",
+      "words": 158
+    },
+    {
+      "slug": "istanbul/maltepe",
+      "words": 159
+    },
+    {
+      "slug": "istanbul/pendik",
+      "words": 154
+    },
+    {
+      "slug": "istanbul/sancaktepe",
+      "words": 157
+    },
+    {
+      "slug": "istanbul/sariyer",
+      "words": 168
+    },
+    {
+      "slug": "istanbul/silivri",
+      "words": 153
+    },
+    {
+      "slug": "istanbul/sultanbeyli",
+      "words": 157
+    },
+    {
+      "slug": "istanbul/sultangazi",
+      "words": 152
+    },
+    {
+      "slug": "istanbul/sile",
+      "words": 159
+    },
+    {
+      "slug": "istanbul/sisli",
+      "words": 160
+    },
+    {
+      "slug": "istanbul/tuzla",
+      "words": 156
+    },
+    {
+      "slug": "istanbul/umraniye",
+      "words": 155
+    },
+    {
+      "slug": "istanbul/uskudar",
+      "words": 151
+    },
+    {
+      "slug": "istanbul/zeytinburnu",
+      "words": 160
+    },
+    {
+      "slug": "sakarya/adapazari",
+      "words": 164
+    },
+    {
+      "slug": "sakarya/akyazi",
+      "words": 160
+    },
+    {
+      "slug": "sakarya/arifiye",
+      "words": 166
+    },
+    {
+      "slug": "sakarya/erenler",
+      "words": 164
+    },
+    {
+      "slug": "sakarya/ferizli",
+      "words": 160
+    },
+    {
+      "slug": "sakarya/geyve",
+      "words": 162
+    },
+    {
+      "slug": "sakarya/hendek",
+      "words": 160
+    },
+    {
+      "slug": "sakarya/karapurcek",
+      "words": 158
+    },
+    {
+      "slug": "sakarya/karasu",
+      "words": 161
+    },
+    {
+      "slug": "sakarya/kaynarca",
+      "words": 162
+    },
+    {
+      "slug": "sakarya/kocaali",
+      "words": 157
+    },
+    {
+      "slug": "sakarya/pamukova",
+      "words": 161
+    },
+    {
+      "slug": "sakarya/serdivan",
+      "words": 155
+    },
+    {
+      "slug": "sakarya/sogutlu",
+      "words": 155
+    },
+    {
+      "slug": "sakarya/tarakli",
+      "words": 153
+    },
+    {
+      "slug": "kocaeli/basiskele",
+      "words": 159
+    },
+    {
+      "slug": "kocaeli/cayirova",
+      "words": 152
+    },
+    {
+      "slug": "kocaeli/darica",
+      "words": 150
+    },
+    {
+      "slug": "kocaeli/derince",
+      "words": 162
+    },
+    {
+      "slug": "kocaeli/dilovasi",
+      "words": 161
+    },
+    {
+      "slug": "kocaeli/gebze",
+      "words": 157
+    },
+    {
+      "slug": "kocaeli/golcuk",
+      "words": 156
+    },
+    {
+      "slug": "kocaeli/izmit",
+      "words": 160
+    },
+    {
+      "slug": "kocaeli/kandira",
+      "words": 156
+    },
+    {
+      "slug": "kocaeli/karamursel",
+      "words": 158
+    },
+    {
+      "slug": "kocaeli/kartepe",
+      "words": 158
+    },
+    {
+      "slug": "kocaeli/korfez",
+      "words": 156
+    },
+    {
+      "slug": "duzce/merkez",
+      "words": 165
+    },
+    {
+      "slug": "duzce/akcakoca",
+      "words": 149
+    },
+    {
+      "slug": "duzce/cilimli",
+      "words": 158
+    },
+    {
+      "slug": "duzce/cumayeri",
+      "words": 158
+    },
+    {
+      "slug": "duzce/golyaka",
+      "words": 160
+    },
+    {
+      "slug": "duzce/gumusova",
+      "words": 156
+    },
+    {
+      "slug": "duzce/kaynasli",
+      "words": 156
+    },
+    {
+      "slug": "duzce/yigilca",
+      "words": 162
+    }
+  ]
+}
