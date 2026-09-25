@@ -15,7 +15,7 @@ export function WorkGallery(){
       <div className="work-gallery-grid">{workPhotos.map((item,index)=><figure className={`work-gallery-card${index===0?' work-gallery-featured':''}`} key={item.src}>
         <button type="button" className="work-gallery-open" aria-label={`${item.title} — fotoğrafı büyüt`} aria-haspopup="dialog" onClick={()=>{setSelected(index);dialog.current?.showModal();}}>
           <Image src={item.src} alt={item.alt} width={item.width} height={item.height} sizes={index===0?'(max-width: 800px) 100vw, 50vw':'(max-width: 600px) 100vw, (max-width: 800px) 50vw, 25vw'}/>
-          <span className="work-gallery-zoom" aria-hidden="true">↗</span>
+          <svg className="work-gallery-zoom" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 17 17 7M7 7h10v10"/></svg>
         </button><figcaption><span>{String(index+1).padStart(2,'0')}</span>{item.title}</figcaption>
       </figure>)}</div>
       <p className="work-gallery-note">7/24 mobil lastik hizmeti · İstanbul, Sakarya, Kocaeli ve Düzce</p>
