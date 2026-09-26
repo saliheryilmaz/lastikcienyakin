@@ -23,7 +23,7 @@ export const siteConfig = {
   analytics: {
     gtmId: process.env.NEXT_PUBLIC_GTM_ID || process.env.GTM_ID || '',
     gaId: process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || process.env.GA_MEASUREMENT_ID || '',
-    adsId: process.env.NEXT_PUBLIC_GOOGLE_ADS_ID || process.env.GOOGLE_ADS_ID || '',
+    adsId: process.env.NEXT_PUBLIC_GOOGLE_ADS_ID || process.env.GOOGLE_ADS_ID || 'AW-18475956790',
   },
   searchConsoleVerification: process.env.GOOGLE_SITE_VERIFICATION || '',
 };
