@@ -27,6 +27,16 @@ export function track(event:TrackingEvent,values:Record<string,string>={}){
   if(mode==='pending'){if(pending.length<20)pending.push({event,values});return;}
   const payload={page_path:window.location.pathname,...attribution(),...values};
   if(mode==='gtm'){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event,...payload});}
-  else window.gtag?.('event',event,payload);
+  else {
+   window.gtag?.('event',event,payload);
+   // This action measures a contact-button click, not a completed call or sale.
+   // GTM mode owns its tags separately so it must not also send this direct tag.
+   if(event==='phone_click'||event==='whatsapp_click'){
+    window.gtag?.('event','conversion',{
+     send_to:'AW-18475956790/xpowCIiPnoYdELb0gupE',
+     value:1.0,currency:'TRY',
+    });
+   }
+  }
  }catch{/* A failed tag must not break telephone or WhatsApp links. */}
 }
